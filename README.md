@@ -1,5 +1,5 @@
 # shop4
-[shop4 site]('https://kind-nobel-530ab0.netlify.app/')
+[shop4 site](https://kind-nobel-530ab0.netlify.app/)
 ## Project setup
 ```
 yarn install
