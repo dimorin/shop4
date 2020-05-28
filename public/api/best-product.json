@@ -1,0 +1,27 @@
+[
+    {
+        "image":"https://picsum.photos/720/932?random=1",
+        "link":"",
+        "linkText":"DRESSES"
+    },
+    {
+        "image":"https://picsum.photos/720/932?random=2",
+        "link":"",
+        "linkText":"SUNGLASS"
+    },
+    {
+        "image":"https://picsum.photos/720/932?random=3",
+        "link":"",
+        "linkText":"WATCHES"
+    },
+    {
+        "image":"https://picsum.photos/720/932?random=4",
+        "link":"",
+        "linkText":"FOOTERWEAR"
+    },
+    {
+        "image":"https://picsum.photos/720/932?random=5",
+        "link":"",
+        "linkText":"BAGS"
+    }
+]
